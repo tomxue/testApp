@@ -1,0 +1,11 @@
+C:\Users\cheng\Desktop\TestApp\Test_Package\Images\SplashScreen.scale-200.png
+C:\Users\cheng\Desktop\TestApp\Test_Package\Images\LockScreenLogo.scale-200.png
+C:\Users\cheng\Desktop\TestApp\Test_Package\Images\Square150x150Logo.scale-200.png
+C:\Users\cheng\Desktop\TestApp\Test_Package\Images\Square44x44Logo.scale-200.png
+C:\Users\cheng\Desktop\TestApp\Test_Package\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\cheng\Desktop\TestApp\Test_Package\Images\StoreLogo.png
+C:\Users\cheng\Desktop\TestApp\Test_Package\Images\Wide310x150Logo.scale-200.png
+C:\Users\cheng\Desktop\TestApp\Test_Package\bin\x64\Release\resources.pri
+C:\Users\cheng\Desktop\TestApp\TestApp\bin\Release\TestApp.exe
+C:\Users\cheng\Desktop\TestApp\TestApp\bin\Release\TestApp.exe.config
+C:\Users\cheng\Desktop\TestApp\TestApp\bin\Release\TestApp.pdb

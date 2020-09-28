@@ -1,0 +1,2 @@
+MainPackage=C:\Users\cheng\Desktop\TestApp\Test_Package\bin\x64\Release\Test_Package_1.0.2.0_x64.msix
+SymbolPackage=C:\Users\cheng\Desktop\TestApp\Test_Package\obj\x64\Release\Symbols\Test_Package_1.0.2.0_x64.appxsym
